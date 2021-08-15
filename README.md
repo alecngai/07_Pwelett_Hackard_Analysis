@@ -13,7 +13,13 @@ We are given the intial csv files, where we created an ERD to prepare us for thi
 
 ## Results: 
 
+![rt](https://github.com/alecngai/07_Pwelett_Hackard_Analysis/blob/main/Resources/retirement_titles_df.png)
 
+![ut](https://github.com/alecngai/07_Pwelett_Hackard_Analysis/blob/main/Resources/unique_titles_df.png)
+
+![rt_2](https://github.com/alecngai/07_Pwelett_Hackard_Analysis/blob/main/Resources/retiring_titles.png)
+
+![me](https://github.com/alecngai/07_Pwelett_Hackard_Analysis/blob/main/Resources/mentorship_eligibilty.png)
 
 ## Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 - How many roles will need to be filled as the "silver tsunami" begins to make an impact?
