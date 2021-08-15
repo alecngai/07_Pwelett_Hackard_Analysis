@@ -51,3 +51,5 @@ Next we must find all emplolyees who have been here for more than 50 years and s
 This table was created using groupby and count on the membership_eligibility.csv, we can see the amount of roles that need to be filled soon as all these employees are close to their retirement age. 
 
 - Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
+There are not enough for managers, there are only 2 managers at the company and there none in the retirement-ready employees. We would advise them to prepare for more management training, as managers are crucial to the workflow of a company. 
