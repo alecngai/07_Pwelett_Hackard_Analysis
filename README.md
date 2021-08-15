@@ -12,12 +12,19 @@ We will complete two technical analysis using SQL and PGAdmin4, using the data p
 We are given the intial csv files, where we created an ERD to prepare us for this technical analysis. 
 
 ## Results: 
+![sql1](https://github.com/alecngai/07_Pwelett_Hackard_Analysis/blob/main/Resources/retirement_titles_sql.png)
 
 ![rt](https://github.com/alecngai/07_Pwelett_Hackard_Analysis/blob/main/Resources/retirement_titles_df.png)
 
+![sql2](https://github.com/alecngai/07_Pwelett_Hackard_Analysis/blob/main/Resources/unique_titles_sql.png)
+
 ![ut](https://github.com/alecngai/07_Pwelett_Hackard_Analysis/blob/main/Resources/unique_titles_df.png)
 
+![sql3](https://github.com/alecngai/07_Pwelett_Hackard_Analysis/blob/main/Resources/retiring_titles_sql.png)
+
 ![rt_2](https://github.com/alecngai/07_Pwelett_Hackard_Analysis/blob/main/Resources/retiring_titles.png)
+
+![sql4](https://github.com/alecngai/07_Pwelett_Hackard_Analysis/blob/main/Resources/mentorship_eligibilty_sql.png)
 
 ![me](https://github.com/alecngai/07_Pwelett_Hackard_Analysis/blob/main/Resources/mentorship_eligibilty.png)
 
